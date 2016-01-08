@@ -1,0 +1,5 @@
+Username
+irc.twitch.tv
+6667
+#channelname
+oauth:
