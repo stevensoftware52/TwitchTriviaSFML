@@ -39,8 +39,8 @@ int _tmain(int argc, _TCHAR* argv[])
         window.clear(sf::Color::Black);
 
 		// do stuff
-		game.Draw();
 		irc.Update();
+		game.Draw();
 
         // end the current frame
         window.display();
